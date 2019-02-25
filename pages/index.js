@@ -11,7 +11,7 @@ class Index extends React.Component {
         <Header>
           <div className="logo" />
           <Menu
-            theme="dark"
+            theme="light"
             mode="horizontal"
             defaultSelectedKeys={['2']}
             style={{ lineHeight: '64px' }}
